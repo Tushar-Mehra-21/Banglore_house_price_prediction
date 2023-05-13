@@ -1,6 +1,7 @@
 # Banglore_house_price_prediction
  
-![](BHP_website.PNG)
+![gui](https://github.com/Tushar-Mehra-21/Banglore_house_price_prediction/assets/90820867/37f118da-59e7-4cdd-a5f8-d23dba96ca6f)
+
 
 In this project, we will walk through the step-by-step process of building a real estate price prediction website. We will begin by building a model using sklearn and linear regression, using the banglore home prices dataset from Kaggle.com. Next, we will write a Python Flask server that will use the saved model to serve HTTP requests. Finally, we will build a website using HTML, CSS, and JavaScript, which will allow users to enter home square footage, number of bedrooms, and other features, and call the Python Flask server to retrieve the predicted price.
 
