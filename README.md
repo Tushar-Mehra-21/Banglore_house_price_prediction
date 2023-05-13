@@ -14,7 +14,7 @@ Exploratory data analysis (EDA): Before building the model, it's important to un
 
 Feature engineering: We will need to select the relevant features that will be used to predict home prices. This can involve transforming existing features or creating new ones based on domain knowledge or statistical analysis.
 
-Model selection and training: We will use Scikit-learn to build and train the prediction model, using linear regression. We will use techniques such as GridSearchCV for hyperparameter tuning and k-fold cross-validation to ensure that our model is accurate and robust.it was http://ec2-3-133-88-210.us-east-2.compute.amazonaws.com/) and this will be fully functional website running in production cloud environment
+Model selection and training: We will use Scikit-learn to build and train the prediction model, using linear regression. We will use techniques such as GridSearchCV for hyperparameter tuning and k-fold cross-validation to ensure that our model is accurate and robust.
 
 
 
